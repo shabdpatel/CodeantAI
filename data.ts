@@ -47,5 +47,62 @@ export const DataMock = [
         language: 'PHP',
         size: '5432 KB',
         updatedAt: 'Updated 7 days ago'
+    },
+    {
+        title: 'weather-app',
+        type: 'Public',
+        language: 'JavaScript',
+        size: '2048 KB',
+        updatedAt: 'Updated 8 days ago'
+    },
+    {
+        title: 'finance-tracker',
+        type: 'Private',
+        language: 'Kotlin',
+        size: '4992 KB',
+        updatedAt: 'Updated 9 days ago'
+    },
+    {
+        title: 'fitness-app',
+        type: 'Public',
+        language: 'Ruby',
+        size: '3567 KB',
+        updatedAt: 'Updated 10 days ago'
+    },
+    {
+        title: 'task-manager',
+        type: 'Private',
+        language: 'TypeScript',
+        size: '4678 KB',
+        updatedAt: 'Updated 11 days ago'
+    },
+    {
+        title: 'music-streaming',
+        type: 'Public',
+        language: 'Go',
+        size: '5789 KB',
+        updatedAt: 'Updated 12 days ago'
+    },
+    {
+        title: 'photo-editor',
+        type: 'Private',
+        language: 'C++',
+        size: '6893 KB',
+        updatedAt: 'Updated 13 days ago'
+    },
+    {
+        title: 'chat-application',
+        type: 'Public',
+        language: 'Python',
+        size: '3412 KB',
+        updatedAt: 'Updated 14 days ago'
+    },
+    {
+        title: 'game-engine',
+        type: 'Private',
+        language: 'C#',
+        size: '7510 KB',
+        updatedAt: 'Updated 15 days ago'
     }
 ];
+
